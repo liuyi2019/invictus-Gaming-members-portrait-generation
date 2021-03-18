@@ -1,12 +1,9 @@
 # 自言自语
-IG啊IG，今年你还有机会吗
-效果图：
-第一排TheShy，Duke，Ning，Rookie，JackeyLove
-第三排中间三个Baolan~
-是我最喜欢的18極了
-**source images:**
+IG啊IG，今年你还有机会吗 \
+效果图：\
+**source images:**\
 ![](https://ai-studio-static-online.cdn.bcebos.com/a9c6f640a5ae4f89a4ffa19bb55754d213e659e6ec5c4fca94d284373e33868f)
-**generated images:**
+**generated images:**\
 ![](https://ai-studio-static-online.cdn.bcebos.com/719712e91eae44269498c55ef3786a93de1882155c284b72b6a9f57c056262c1)
 
 # 安装paddlehub环境
